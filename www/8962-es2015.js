@@ -1,0 +1,1 @@
+(self.webpackChunkhypergames=self.webpackChunkhypergames||[]).push([[8962],{8962:function(e,s,n){"use strict";n.r(s),n.d(s,{SplashScreenWeb:function(){return c}});var a=n(8384);class c extends a.Uw{async show(e){}async hide(e){}}}}]);
